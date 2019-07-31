@@ -36,3 +36,62 @@ def triangle(base,height):
     print("The area of the triangle with", base ,"and", height ,"is", triangle)
     
 triangle(12,5)
+
+def caburybox(a,b):
+    caburybox=a+b
+    
+    print(caburybox)
+  
+caburybox(15,5)
+
+a = "Milk Chocolate"
+b = "Dark Chocolate"
+c = "White Chocolate"
+    
+print(a,b,c)
+  
+print ("Hello Kaya")  
+
+a = "Kaya"
+print("Hello",a)
+
+name = input("please enter your name")
+print("Your name is", name)
+
+age = input("please enter your age")
+print("Thanks.", "You enetered", age)
+
+ageint = int(age)
+ageint
+
+ageint = float(age)
+
+import math
+
+dir (math)
+
+math.pi
+
+math.pow(6,15)
+
+def cuberoot(a):
+    print("The cubic root of",a, "is", math.pow(a,(1/3)))
+    
+    cuberoot(16)
+    
+    import math
+    a=int(input("Enter a value"))
+    
+    def cadbury (a):
+        cadbury= math.pow(a,1/3)
+        print("The cubic root of", a, "is", cadbury)
+        
+        cadbury(a)
+    
+    
+    
+    
+    
+    
+    
+    
